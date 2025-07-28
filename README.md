@@ -29,6 +29,7 @@ This Figma design includes key e-commerce screens:
 ## 📸 Preview
 
 
+https://github.com/user-attachments/assets/d3c93e05-1c94-4eb5-bbdd-c5090a57c679
 
 ---
 
